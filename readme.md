@@ -1,16 +1,12 @@
 ### Zero Shot prompt in English Instruction
 ```
-You are given a scenario based context and a multiple-choice question along with four answer options.
+You are given a scenario based context and a multiple-choice question along with three answer options.
 Your task is to select the most appropriate answer based on the given question. Respond only with the correct answer without any explanation.
 
 Context: {ctx}
-
 Question: {qn}
-
 Option 1: {a}
-
 Option 2: {b}
-
 Option 3: {c}
 
 The correct answer is:
