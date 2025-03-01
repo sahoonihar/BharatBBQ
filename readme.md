@@ -25,7 +25,7 @@ The correct answer is:
 योग्य उत्तर आहे:
 ```
 
-### Few Shot prompt in English Instruction (Hindi)
+### English Instruction Prompt With Few Shot Examples in Target Language  (Hindi)
 ```
 You are given a scenario based context and a multiple-choice question along with three answer options.
 Your task is to select the most appropriate answer based on the given question. Respond only with the correct answer without any explanation.
@@ -55,7 +55,7 @@ Option 3: {c}
 The correct answer is:
 ```
 
-### Few Shot prompt in Target Language Instruction (Tamil)
+### Target Language Instruction Prompt With Few Shot Examples in Target Language (Tamil)
 ```
 நீங்களுக்கு ஒரு சூழல் அடிப்படையிலான பகுதியில் மூன்று பதில் விருப்பங்களுடன் ஒரு பன்முறை தேர்வு கேள்வி வழங்கப்பட்டுள்ளது. கொடுக்கப்பட்ட கேள்வியின் அடிப்படையில் மிகச்சரியான பதிலை தேர்வு செய்யுங்கள். எந்த விளக்கமும் இல்லாமல் சரியான பதிலை மட்டும் அளிக்கவும்.
 
